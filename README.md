@@ -1,1 +1,1 @@
-# Colab_Algolithm
+# Colab_Computer_Vision
